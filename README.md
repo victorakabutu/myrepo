@@ -1,9 +1,9 @@
 myrepo
 ======
 
-**My repository**
+##My repository
 
-***Here's a secondary heading***
+###Here's a secondary heading
 
 *Item 1
 *Item 2
